@@ -1,2 +1,3 @@
-# Excel-sales-analysis-project
-Excel-based sales data analysis and interactive dashboard for business insights .
+# Data_Analysis_Project
+Data analysis project using excel and EDA using python
+AUTHOR - Abhinna_Singh 
